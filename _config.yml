@@ -1,7 +1,7 @@
 # Site settings
 title: JeremyChan's Blog
-SEOTitle: JeremyChan的博客3c75c6d399acb089bf8da6b5c4e4744a.jpeg
-header-img: img/post-bg-desk.jpg
+SEOTitle: JeremyChan的博客
+header-img: img/post-bg-swift.jpg
 email: jeremy_chan@alumni.tongji.edu.cn
 description: "我的目标是星辰大海"
 keyword: "JeremyChan, JAVA"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/Heliosss/heliosss.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "东风快递，使命必达"
+sidebar-about-description: "非淡泊无以明志，非宁静无以致远"
 sidebar-avatar: /img/avatar_me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,8 +19,8 @@ sidebar-avatar: /img/avatar_me.jpeg      # use absolute URL, seeing it's used in
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+zhihu_username:     Jeremy
+github_username:    heliosss
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
